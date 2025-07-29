@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Divya Pakkela</h1>
 
 <p align="center">
-  🌱 Aspiring Full Stack Developer | 📊 Data Analytics Enthusias | 💻 Tech Enthusiast | 🎯 Lifelong Learner
+  🌱 Aspiring Full Stack Developer | 📊 Data Analytics Enthusiast | 💻 Tech Enthusiast | 🎯 Lifelong Learner
 </p>
 
 ---
